@@ -8,7 +8,6 @@ Prediction of burned area of forest fires.
 
 Using Data Science and Machine learning, we can build a model that takes in the detected fires dataset learns and detects future fires based on certain Weather report.
 
-Storing the Sourced dataset to MongoDB.
 
 Sklearn for pre-processing
 
